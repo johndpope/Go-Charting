@@ -13,6 +13,8 @@ TODO:
 2. Feature List
 3. v1.1 Release
 
+# Platform Preview
+
 ![Alt text](https://i.imgur.com/kj1Hpks.png "Analytics Charting and Trading Platform")
 
 
