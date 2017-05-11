@@ -1,5 +1,5 @@
 # Go-Charting
-Analytics Charting and Trading Platform (Free Charting and Analysis)
+![Alt text](https://www.gocharting.com/assets/image/apple-icon-60x60.png "Analytics Charting and Trading Platform (Free Charting and Analysis)")
 
 https://www.gocharting.com
 
