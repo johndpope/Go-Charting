@@ -1,2 +1,6 @@
 # Go-Charting
-Investment Research Terminal
+Analytics Charting and Trading Platform
+
+https://www.gocharting.com
+
+
