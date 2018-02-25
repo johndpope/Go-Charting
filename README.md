@@ -25,8 +25,9 @@ If you like what you see, please give us a thumbs up.   If you want new features
 Email:  admin@gocharting.com
 
 # Platform Preview
+![alt text](https://s3-ap-south-1.amazonaws.com/equitydata.gocharting.com/1y2enaHCLTECH%7C532281NSE.png "Charting simplified")
 
-https://s3-ap-south-1.amazonaws.com/equitydata.gocharting.com/1y2enaHCLTECH%7C532281NSE.png
+
 
 
 
