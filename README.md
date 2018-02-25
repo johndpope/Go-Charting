@@ -24,10 +24,6 @@ APIs/features available on our launch:
 If you like what you see, please give us a thumbs up.   If you want new features, email to the below:
 Email:  admin@gocharting.com
 
-# Platform Preview
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![alt text](https://s3-ap-south-1.amazonaws.com/equitydata.gocharting.com/1y2enaHCLTECH%7C532281NSE.png "Charting simplified")
-
 
 
 
