@@ -6,18 +6,26 @@ Visit https://www.gocharting.com to view the platform.
 
 Please use the Github issue tracker to report any issues or to get any help regarding the code.
 
-Current Coverage:
-1. Indian Equity
+APIs/features available on our launch:
+1. Real-time free charting
+2. No annoying ads
+3. 1 second and tick trade data
+4. 2000+ crypto currencies; 14k crypto currency pairs
+5. Support 80+ global crypto exchanges
+6. Customizable HTML5 charting
+7. Advanced charts such as Renko, Kagi, Heikin Ashi, Point and Figure
+8. 300+ customizable indicators, no cap on how many indicators you would like to add to your chart
+9. Drawing tools and candlestick pattern recognition
+10. Plot up to 4 charts at a time
+11. EOD and 5 IEOD intervals
+12. Social sharing
+13. Save your study on the cloud  (unlimited charts)
 
-Phase: Beta
-
-TODO:
-1. Documentation
-2. Feature List
-3. v1.1 Release
+If you like what you see, please give us a thumbs up.   If you want new features, email to the below:
+Email:  admin@gocharting.com
 
 # Platform Preview
 
-![Alt text](https://i.imgur.com/kj1Hpks.png "Analytics Charting and Trading Platform")
+![Alt text](https://s3-ap-south-1.amazonaws.com/equitydata.gocharting.com/1y2enaHCLTECH|532281NSE.png "Analytics Charting and Trading Platform")
 
 
